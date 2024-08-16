@@ -1,0 +1,14 @@
+:root{
+    --primary-bg-color: #222;
+    --primary-text-color: #fff;
+}
+
+*{
+    box-sizing: border-box;
+}
+body{
+    padding: 0px;
+    margin: 0px;
+    background-color: var(--primary-bg-color);
+    color: var(--primary-text-color);
+}
